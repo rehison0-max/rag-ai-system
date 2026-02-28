@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>RAG AI Assistant</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>📚 RAG AI Assistant (OpenRouter)</h1>
+
+        <form method="post" action="/ask">
+            <textarea name="question" placeholder="Ask something from your PDFs..." required></textarea>
+            <button type="submit">Ask</button>
+        </form>
+
+        {% if answer %}
+        <div class="response">
+            <h3>Answer:</h3>
+            <p>{{ answer }}</p>
+
+            <h4>Sources:</h4>
+            <pre>{{ sources }}</pre>
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>
