@@ -165,6 +165,13 @@ Results show that the RAG architecture successfully improves answer reliability 
 
 ---
 
+## 📄 Proper Documentation 
+
+The complete  documentation including architecture, tools used, and evaluation results can be accessed here:
+
+[Download Proper Documentation]
+(Proper_Documentation.pdf)
+
 
 ## 📸 Project Screenshots
 
