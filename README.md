@@ -165,6 +165,18 @@ Results show that the RAG architecture successfully improves answer reliability 
 
 ---
 
+
+## 📸 Project Screenshots
+
+### 🖥 Home Page
+![Home Page](screenshots/homepage.png)
+
+### 🤖 Generated Answer with Sources
+![Answer](screenshots/answer.png)
+
+### 🚫 Hallucination Control Test
+![Test](screenshots/hallucination_test.png)
+
 ## 👨‍💻 Author
 
 **Raza Rahman**  
